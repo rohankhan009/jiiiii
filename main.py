@@ -52,7 +52,7 @@ CONFIG_FILE = Path("papi_monitor_config.json")
 # ═══════════════════════════════════════════════════════════════════════════
 #  ✏️  EDIT HERE  —  apna Bot Token aur apni Owner Chat ID yahan daalo
 # ═══════════════════════════════════════════════════════════════════════════
-BOT_TOKEN = ""          # <-- apna bot token yahan paste karo (ya env BOT_TOKEN)
+BOT_TOKEN = "8736975992:AAG-J5hfo2MpxS4fcrR9o6vfkg3YCqrE2Rs"          # <-- apna bot token yahan paste karo (ya env BOT_TOKEN)
 OWNER_CHAT_ID = ""      # <-- apni chat id / channel (jahan har naya firebase report aayega)
 # ═══════════════════════════════════════════════════════════════════════════
 
